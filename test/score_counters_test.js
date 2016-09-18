@@ -8,7 +8,7 @@ import {
   changeCounter,
   yatzyCounter,
   twoPairsCounter
-} from '../app/score_counters';
+} from '../app/logic/score_counters';
 
 describe('validators', function() {
   context('sameNumberCounter', function() {
